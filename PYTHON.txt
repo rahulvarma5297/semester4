@@ -1,0 +1,18 @@
+append
+extend
+
+colors.append(["orange","black"])
+
+colors.extend("orange")
+colors.extend(["orange","black"])
+----------------------------------------
+colors.insert(3,"pink")
+print(colors)
+
+colors.remove("pink")
+colors.pop()
+colors.pop(1)--> index(1)
+----------------------------------------
+
+colors.reverse()
+colors.sort()

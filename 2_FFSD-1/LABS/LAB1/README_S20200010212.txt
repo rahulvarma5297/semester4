@@ -1,0 +1,58 @@
+NAME : RAHUL VARMA
+ROLL NO : S20200010212
+
+FFSD LAB-1.
+EDITING WEBSITE.
+IMAGES ARE UPLOADED IN THE ATTACHED PDF.
+
+lINK OF MAIN WEBISTE: 
+https://www.w3schools.com/html/html_basic.asp
+
+
+
+List of changes:
+
+1. Title of the website:
+
+HTML Basic --> MY FIRST WEB-SITE EDITING
+----------------------------------------------------------------------------------
+2. Changing Text in the website in the first line:
+
+In main webiste: In this chapter we will show some basic HTML examples
+I changed to :In this website i'm editing and checking whether it is updated or not.
+----------------------------------------------------------------------------------
+3. In the next line changing text with my name and roll number and adding colour:
+
+In main webiste:Don't worry if we use tags you have not learned about yet.
+I changed to :NAME: RAHUL VARMA, ROLL NO: S20200010212
+----------------------------------------------------------------------------------
+
+4. Changing heading and adding 5 types of heading with different colour and different styles.
+
+In main webiste : HTML Documents
+I changed to : THIS IS MAIN HEADING
+
+----------------------------------------------------------------------------------
+
+5. Added car picture
+
+----------------------------------------------------------------------------------
+
+6. Changing the structure of the example in main website:
+
+7. CHANGING THE TEXT ON THE GREEN BUTTON:
+8. Changing heading and block :
+9. changing heading name and block of another part
+10. changing heading and changing the position of the paragraph.
+
+
+
+
+
+
+
+
+
+
+
+
